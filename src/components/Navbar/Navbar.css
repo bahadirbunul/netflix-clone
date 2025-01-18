@@ -34,6 +34,10 @@
   cursor: pointer;
 }
 
+.navbar-left ul li:hover {
+  color: gray;
+}
+
 .navbar-right {
   display: flex;
   gap: 20px;
