@@ -1,8 +1,23 @@
-# React + Vite
+# A Netflix Clone with ReactJS & Firebase.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I developed a Netflix clone application using the TMDB API. In this application, users can register or log in to access the app and watch teasers of the movies available.
 
-Currently, two official plugins are available:
+Click demo to try it by yourself!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Netflix Clone Demo Link
+
+You can view the site here
+[Click Me](https://netflix-clone-six-puce.vercel.app/)
+
+## Topics
+
+- ReactJS
+- React Hooks
+- TMDB API
+- Firebase
+- Responsive Design
+- Deploy the App LIVE on Vercel
+
+## Author
+
+Bahadır Bünül
